@@ -1,1 +1,1 @@
-Exercise/snippets from https://d2l.ai/
+Exercises/snippets from https://d2l.ai/
